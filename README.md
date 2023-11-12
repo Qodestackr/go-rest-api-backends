@@ -26,7 +26,7 @@ A great starting point for building RESTful APIs in Go using Gin framework, conn
 To get up and running with the Go-Boilerplate, follow these simple steps:
 
 ```
-$ git clone https://github.com/Mehdikarimian/go-boilerplate
+$ git clone https://github.com/Qodestackr
 $ cd go-boilerplate
 $ cp internal/config/.env.example internal/config/.env # create a copy of the example environment file, and also follow configuration steps on the difference section below
 $ go src/main.go Or air
